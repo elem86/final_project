@@ -18,7 +18,12 @@ AtliQ Hardware is one of the leading computer hardware producers in India and ha
 
 ![image](https://github.com/elem86/final_project/assets/48759327/9e414efe-fd85-4028-b2af-67a9aa1cbf8b)
 
+![image](https://github.com/elem86/final_project/assets/48759327/eba545dd-6d70-45c7-935a-dee8d54a8696)
+
+
 
 ### Conclusion
 
-This was a great opportunity to practice my skills in a complex project.
+This was a great opportunity to practice my skills in a complex project. Going through the steps of EDA, Customer Segmentation, Product Recommendation, and Hypothesis to get to the final conclusion was a great journey.
+
+At the end of the project, you can find a [Tableau dashboard](https://public.tableau.com/views/FinalProject_16246079605660/CustomerSegmentationandProductRecommendationsMonitoring?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) as well for better visualization.
