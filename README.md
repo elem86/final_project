@@ -18,7 +18,7 @@ AtliQ Hardware is one of the leading computer hardware producers in India and ha
 
 ![image](https://github.com/elem86/final_project/assets/48759327/9e414efe-fd85-4028-b2af-67a9aa1cbf8b)
 
-![image](https://github.com/elem86/final_project/assets/48759327/eba545dd-6d70-45c7-935a-dee8d54a8696)
+![image](https://github.com/elem86/final_project/assets/48759327/70c16134-84c8-4d3c-bf27-eb3e663f173e)
 
 
 
